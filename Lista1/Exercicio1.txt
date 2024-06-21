@@ -1,0 +1,17 @@
+Linguagem VB:
+Module VBModule
+    Sub Main()
+        Console.WriteLine("Hello World")
+    End Sub
+End Module
+
+Linguagem Kotlin:
+fun main() {
+    println("Hello World")
+}
+
+Linguagem Pascal:
+program Hello;
+begin
+  writeln ('Hello World')
+end.
